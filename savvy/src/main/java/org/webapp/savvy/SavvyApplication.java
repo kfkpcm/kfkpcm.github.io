@@ -8,4 +8,3 @@ public class SavvyApplication {
         SpringApplication.run(SavvyApplication.class, args);
     }
 }
-
